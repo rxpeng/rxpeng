@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ assets/images/Memoji_rachel.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p></p> 
-<p></p> 
-<p></p> 
+<br />
+<br />
+<br />
 
 <p>I am now a PhD student majoring in Mass Communication and minoring in Social Data Analytics. </p> 
 
