@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![GitHub](assets/images/Memoji_rachel.jpg "GitHub,Memojirachel")
+![GitHub](https://github.com/rxpeng/rxpeng.github.io/blob/main/assets/images/Memoji_rachel.jpg "GitHub,Memojirachel")
 
 <br />
 <br />
