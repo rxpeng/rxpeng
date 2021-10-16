@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+![GitHub](assets/images/Memoji_rachel.jpg "GitHub,Memojirachel")
 <img src="assets/images/Memoji_rachel.jpg" alt="GitHub" title="GitHub,Memojirachel" width="300" height="300" />
 
 <br />
