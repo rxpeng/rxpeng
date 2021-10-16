@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![AboutmeImage](https://github.com/rxpeng/rxpeng.github.io/blob/main/assets/images/Memoji_rachel.jpg)
+![AboutmeImage](assets/images/Memoji_rachel.jpg)
 
 <br />
 <br />
