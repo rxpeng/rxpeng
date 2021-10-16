@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am now a PhD student in Mass Communication and also study a minor in Social Data Analytics.
+<p>I am now a PhD student majoring in Mass Communication and minoring in Social Data Analytics.
 ![image](https://user-images.githubusercontent.com/61266182/137566165-f52aa4c2-f2a0-404d-8103-1166dd13a135.png)
 </p>
 
@@ -15,26 +15,12 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>R</li>
+	<li>Latex</li>
+	<li>Spss</li>
+	<li>Amos</li>
+	<li>AutoCAD</li>
+	<li>Lumion</li>
+	<li>Adobe Illustrator</li>
 </ul>
