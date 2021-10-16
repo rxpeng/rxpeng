@@ -4,6 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ assets/images/Memoji_rachel.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<p></p> 
+<p></p> 
+<p></p> 
+
 <p>I am now a PhD student majoring in Mass Communication and minoring in Social Data Analytics. </p> 
 
 <p>I love thinking and asking questions about how people come to learn about issues of public importance and the ways in which communication can foster a better society.</p>
