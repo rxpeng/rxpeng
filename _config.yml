@@ -53,12 +53,12 @@ github: rxpeng
 email: rachelxpeng@gmail.com
 
 authors:
- Rachel Peng:
+ johndoe:
     name: Rachel 
     bio: Dust in the wind
     external-image: false
     picture: assets/images/Memoji_rachel.jpg
-    twitter: johndoe
+    twitter: paeng620
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
