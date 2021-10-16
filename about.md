@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ assets/images/Aboueme.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ assets/images/Aboutme.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>I am now a PhD student majoring in Mass Communication and minoring in Social Data Analytics. </p> 
 
