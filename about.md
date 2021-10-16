@@ -3,8 +3,8 @@ title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ assets/images/Memoji_rachel.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Github](assets/images/Memoji_rachel.jpg)
 
-<br />
 <br />
 <br />
 
