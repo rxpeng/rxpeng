@@ -14,7 +14,7 @@ picture: assets/images/Aboutme.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://github.com/rxpeng/rxpeng.github.io/raw/main/assets/images/Rachel_CV_simple.pdf
+resume-url: assets/images/Rachel_CV_simple.pdf
 
 url: https://rxpeng.github.io
 # your url: https://USERNAME.github.io
