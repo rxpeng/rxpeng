@@ -2,8 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ assets/images/Memoji_rachel.jpg }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-![Github](assets/images/Memoji_rachel.jpg)
+<img src="assets/images/Memoji_rachel.jpg" alt="GitHub" title="GitHub,Memojirachel" width="300" height="300" />
 
 <br />
 <br />
