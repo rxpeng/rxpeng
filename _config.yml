@@ -41,7 +41,6 @@ twitter: paeng620
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: rxpeng 
 # gitlab: mygitlab
 # lastfm: mylastfm
 # quora: userquora
@@ -77,7 +76,7 @@ about: true
 blog: false
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
