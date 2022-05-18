@@ -14,7 +14,7 @@ picture: assets/images/Aboutme.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/images/Rachel_CV_simple (2).pdf
+resume-url: assets/images/Rachel_CV.pdf
 
 url: https://rxpeng.github.io
 # your url: https://USERNAME.github.io
@@ -41,7 +41,7 @@ twitter: paeng620
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: rxpeng
+# github: rxpeng
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -80,7 +80,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -99,7 +99,7 @@ related: false
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
