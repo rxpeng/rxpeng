@@ -7,6 +7,8 @@ layout: page
 <br />
 <br />
 
+<p> </p>
+
 - 👨‍💻 I am now a PhD student majoring in Mass Communication and minoring in Social Data Analytics. </p> 
 <p> </p>
 - 💭  I love thinking and asking questions about how people come to learn about issues of public importance and the ways in which communication can foster a better society.
