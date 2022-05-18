@@ -34,7 +34,7 @@ disqus:
   categories: 
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+facebook: rachel.peng.5205
 twitter: paeng620
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -77,7 +77,7 @@ about: true
 blog: false
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
