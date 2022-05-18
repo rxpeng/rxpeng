@@ -59,12 +59,6 @@ authors:
     external-image: false
     picture: assets/images/Memoji_rachel.jpg
     twitter: paeng620
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -78,13 +72,13 @@ pagination:
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
-
-# if you don't need projects, comment the *projects* configs below
-projects: true
-
+  
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: false
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
