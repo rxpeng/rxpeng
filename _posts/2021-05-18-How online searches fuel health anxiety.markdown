@@ -13,7 +13,7 @@ author: Rachel Peng
 externalLink: false
 ---
 
-<font color=#6495ED> How online searches fuel health anxiety: investigating the link between health-related searches, health anxiety, and future intention</font>
+<font color=#6495ED>How online searches fuel health anxiety: investigating the link between health-related searches, health anxiety, and future intention </font>
 Published on *Computers in Human Behavior*. **Rachel X. Peng** (2022)
 
 Based on Stimulus Organism Response (S-O-R) framework, a research model was developed to illustrate the psychological mechanisms of how searching experience shapes users’ healthcare behavior (including future online search intention and health utilization intention. 
