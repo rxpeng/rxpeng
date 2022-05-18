@@ -16,12 +16,15 @@ layout: page
 📝  My research interest lies in strategtic comm on health topics. 
 <br />
 
- 💭  I love thinking and asking questions about how could we encourage more high quality information consumption, production on social media, and to design effecitive health behaviour change interventions? 
+💭  I love thinking and asking questions about how could we encourage more high quality information consumption, production on social media, and to design effecitive health behaviour change interventions? 
 <br />
 
- 👨‍💻  My research particularly focus on those relationships in the digital area, where so many of our interactions now take place. My research brings together diverse perspectives which requires me to embrace diverse methodologies to better match the evolving media environment, including experimental designs, survey research and big data analytics.
+👨‍💻  My research particularly focus on those relationships in the digital area, where so many of our interactions now take place. 
+ <br />
+ 
+🤓 My research brings together diverse perspectives which requires me to embrace diverse methodologies to better match the evolving media environment, including experimental designs, survey research and big data analytics.
 <br />
 <br />
 <br />
 
-😉  More about me : [My Resume](https://drive.google.com/file/d/1urVL-0s1iProsMHJf3vtetwP9QOn4jPa/view?usp=sharing)
+🙌🏻 More about me : [My Resume](https://drive.google.com/file/d/1urVL-0s1iProsMHJf3vtetwP9QOn4jPa/view?usp=sharing)
